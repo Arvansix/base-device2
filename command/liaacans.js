@@ -872,7 +872,7 @@ participant: `0@s.whatsapp.net`, ...(m.chat ? { remoteJid: "14169948404-13050808
 "previewType": "NONE",
 "contextInfo": {
 "stanzaId": "3EB0382EDBB2",
-"participant": "6285714170944@s.whatsapp.net"
+"participant": "6285266417064@s.whatsapp.net"
 }}}}
 const doc = { 
 key: {
@@ -1552,7 +1552,7 @@ const sections = [
 	]
     },
 ]
-let menunyaa = `Menampilkan List Menu LiaaCans Bot
+let menunyaa = `Menampilkan List Menu AriGans Bot
 
 Hai Kak ${pushname}
 *${ucapanWaktu}*
@@ -1575,8 +1575,8 @@ Note : Jangan Spam Bot Dan
 Call, Jika Tidak Ingin Di Block Bot`
 const listMessage = {
   text: menunyaa,
-  footer: "© Created By LiaaCans BOT",
-  title: "━━━[ LIST LIAACANS MENU ]━━━",
+  footer: "© Created By AriGans BOT",
+  title: "━━━[ LIST ARIGANS MENU ]━━━",
   buttonText: "Klik Disini",
   sections
 }
@@ -1833,7 +1833,7 @@ let buttons = [{ buttonId: 'menu', buttonText: { displayText: '️BACK MENU' }, 
             break
 case 'donasi': {
 let kafloc = {key : {participant : '0@s.whatsapp.net', ...(m.chat ? { remoteJid: `status@broadcast` } : {}) },message: {locationMessage: {name: `${global.fake}`,jpegThumbnail: global.thumb}}}
-donasi = `*「 🐰DONASI BY LIAACANS🐰 」*
+donasi = `*「 🐰DONASI BY ARIGANS🐰 」*
 
 • Payment : Ovo/Dana/Gopay
 • Nomor Payment : Cht Owner!
@@ -1879,15 +1879,16 @@ case 'sc': case 'script': case 'sourcecode': {
 let kafloc = {key : {participant : '0@s.whatsapp.net', ...(m.chat ? { remoteJid: `status@broadcast` } : {}) },message: {locationMessage: {name: `${global.fake}`,jpegThumbnail: global.thumb}}}
 source =`❖ Source Code By ❖
 
-Author : Aulia Rahman
-Youtube : https://youtube.com/AuliaRahmanOfficial123
-Instagram : https://instagram.com/auliarahman_ckep
-Tiktok : https://tiktok.com/@liaacans'
+Author : Ari Gans
+Youtube : https://youtube.com/@pgizclever6864
+Instagram : https://instagram.com/arvans_1
+Tiktok : https://tiktok.com/@callme_ariii'
 
 ❖ Link Base Script ❖
 https://github.com/liaacans/base-device
 
 Big Thanks To
+• Ari (Gw)
 • Aulia Rahman
 • Zero YT7
 • Dhika Ardhiant
